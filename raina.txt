@@ -14,4 +14,11 @@ class fun
   {
     return 3.14*radius*radius
   }
+};
+int main()
+ {
+   cout<<area(4)
+   cout<<area(4,5)
+   cout<<area(5.5f)
+ }
 
